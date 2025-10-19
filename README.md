@@ -48,6 +48,7 @@ php artisan serve
 
 ## ⚡ Struktur Folder
 
+```bash
 laravel-starter-12/
 ├── app/
 │   ├── Http/
@@ -61,6 +62,7 @@ laravel-starter-12/
 │   └── js/
 └── ...
 
+```
 
 ---
 
