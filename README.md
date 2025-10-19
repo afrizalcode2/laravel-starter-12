@@ -42,7 +42,11 @@ php artisan key:generate
 # Jalankan server
 php artisan serve
 
-# Struktur Folder
+
+---
+
+## ⚡ Struktur Folder
+
 laravel-starter-12/
 ├── app/
 │   ├── Http/
@@ -56,16 +60,28 @@ laravel-starter-12/
 │   └── js/
 └── ...
 
-# Untuk mode development:
+
+---
+
+## 🧑‍💻 Pengembangan
+
+Untuk mode development:
 npm run dev
 php artisan serve
 
-🧾 Lisensi
+
+---
+
+## 🧾 Lisensi
 
 Proyek ini dirilis di bawah lisensi MIT — bebas digunakan untuk kebutuhan pribadi atau komersial.
 Dibuat dengan ❤️ oleh Afrizal Marzuki
 
-🌟 Dukungan
+
+
+---
+
+## 🌟 Dukungan
 
 Kalau proyek ini membantu kamu, jangan lupa kasih ⭐ di repo ini!
 Itu sangat berarti untuk pengembangan selanjutnya 😊
